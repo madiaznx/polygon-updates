@@ -1,2 +1,3 @@
 # polygon-updates
-Atualizacoes automaticas do Polygon
+
+Repositório público para releases e atualizações automáticas do Polygon.
